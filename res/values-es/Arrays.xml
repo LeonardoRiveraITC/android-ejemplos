@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="lista_aplicaciones">
+
+<item>Llamar a</item>
+
+<item>Tomar una foto</item>
+
+<item>Enviar un mensaje</item>
+
+<item>Enviar un correo electronico</item>
+
+<item>Paginas favoritas</item>
+
+</string-array>
+
+</resources>

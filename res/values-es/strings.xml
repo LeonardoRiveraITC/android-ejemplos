@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mis_aplicaciones</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="res1">Selecciona aplicaciones</string>
+    <string name = "llamada">Lllamar a</string>
+    <string name = "salir">Salir</string>
+    <string name="title_activity_llamadas">Llamar a</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_web_favoritas">Paginas favoritas</string>
+    <string name="title_activity_mensaje">Mensaje</string>
+    <string name ="emailres1" >Email</string>
+    <string name ="emailres2">Asunto</string>
+    <string name ="emailres3">Mensaje</string>
+    <string name ="emalres4">Enviar</string>
+</resources>
